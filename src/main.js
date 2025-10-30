@@ -1,4 +1,4 @@
-console.log("Hello, World!");
+console.log("Hello, Github!");
 
 function add(a, b) {
     return a + b;
